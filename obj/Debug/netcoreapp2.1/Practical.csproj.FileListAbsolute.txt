@@ -1,0 +1,11 @@
+C:\Users\hsche\source\repos\Practical\Practical\bin\Debug\netcoreapp2.1\Practical.deps.json
+C:\Users\hsche\source\repos\Practical\Practical\bin\Debug\netcoreapp2.1\Practical.runtimeconfig.json
+C:\Users\hsche\source\repos\Practical\Practical\bin\Debug\netcoreapp2.1\Practical.runtimeconfig.dev.json
+C:\Users\hsche\source\repos\Practical\Practical\bin\Debug\netcoreapp2.1\Practical.dll
+C:\Users\hsche\source\repos\Practical\Practical\bin\Debug\netcoreapp2.1\Practical.pdb
+C:\Users\hsche\source\repos\Practical\Practical\obj\Debug\netcoreapp2.1\Practical.csprojAssemblyReference.cache
+C:\Users\hsche\source\repos\Practical\Practical\obj\Debug\netcoreapp2.1\Practical.csproj.CoreCompileInputs.cache
+C:\Users\hsche\source\repos\Practical\Practical\obj\Debug\netcoreapp2.1\Practical.AssemblyInfoInputs.cache
+C:\Users\hsche\source\repos\Practical\Practical\obj\Debug\netcoreapp2.1\Practical.AssemblyInfo.cs
+C:\Users\hsche\source\repos\Practical\Practical\obj\Debug\netcoreapp2.1\Practical.dll
+C:\Users\hsche\source\repos\Practical\Practical\obj\Debug\netcoreapp2.1\Practical.pdb

@@ -11,7 +11,7 @@ namespace Practical
             Console.WriteLine("My favorite play date is 12 august!");
             Console.WriteLine("My best color is blue!");
             Console.WriteLine("orange tastes bad, the color i mean!");
-
+            Console.WriteLine("Life is but a dream!");
         }
     }
 }
